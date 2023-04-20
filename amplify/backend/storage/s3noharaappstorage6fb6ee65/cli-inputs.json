@@ -1,0 +1,16 @@
+{
+  "resourceName": "s3noharaappstorage6fb6ee65",
+  "bucketName": "noharaapp-storage-6fb6ee65",
+  "policyUUID": "ab03ebfe",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "DELETE",
+    "READ",
+    "CREATE_AND_UPDATE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

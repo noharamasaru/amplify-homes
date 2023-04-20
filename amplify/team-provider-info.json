@@ -1,4 +1,25 @@
 {
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-noharaapp-dev-105223-authRole",
+      "UnauthRoleArn": "arn:aws:iam::711556954185:role/amplify-noharaapp-dev-105223-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::711556954185:role/amplify-noharaapp-dev-105223-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-noharaapp-dev-105223-deployment",
+      "UnauthRoleName": "amplify-noharaapp-dev-105223-unauthRole",
+      "StackName": "amplify-noharaapp-dev-105223",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:711556954185:stack/amplify-noharaapp-dev-105223/fbb60890-df1d-11ed-b9cb-06012098a3cd",
+      "AmplifyAppId": "d3pv0rld8y9cxw"
+    },
+    "categories": {
+      "auth": {
+        "noharaapp": {}
+      },
+      "storage": {
+        "s3noharaappstorage6fb6ee65": {}
+      }
+    }
+  },
   "staging": {
     "awscloudformation": {
       "AuthRoleName": "amplify-amplifyhomes-staging-40507-authRole",
